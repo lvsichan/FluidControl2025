@@ -1,0 +1,4 @@
+torch
+taichi==1.6.0
+tensorboardX
+gym
